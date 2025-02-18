@@ -1,1 +1,1 @@
-# repositorio de aulas da materia de Data Science no 3 Periodo do meu curso de analise e desenvolvimento de sistemas na faculdade senac.
+Repositório de aulas de Data Science no 3º período do meu curso de Análise e Desenvolvimento de Sistemas na faculdade Senac.
